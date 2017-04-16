@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lukesolo/funk-co#readme",
   "dependencies": {
+    "funk": "git://github.com/lukesolo/funk.git",
     "co": "^4.6.0"
   }
 }
