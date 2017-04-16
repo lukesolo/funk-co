@@ -1,0 +1,22 @@
+{
+  "name": "funk-co",
+  "version": "1.0.0",
+  "description": "linking funk with co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukesolo/funk-co.git"
+  },
+  "author": "lukesolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukesolo/funk-co/issues"
+  },
+  "homepage": "https://github.com/lukesolo/funk-co#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
